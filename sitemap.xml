@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home page -->
+  <url>
+    <loc>https://karabas-il.github.io/guitar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://karabas-il.github.io/guitar/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://karabas-il.github.io/guitar/index_ru.html"/>
+  </url>
+  <url>
+    <loc>https://karabas-il.github.io/guitar/index_ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://karabas-il.github.io/guitar/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://karabas-il.github.io/guitar/index_ru.html"/>
+  </url>
+
+  <!-- Circle of fifths -->
+  <url>
+    <loc>https://karabas-il.github.io/guitar/kvintovyj-krug.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://karabas-il.github.io/guitar/kvintovyj-krug.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://karabas-il.github.io/guitar/kvintovyj-krug_ru.html"/>
+  </url>
+  <url>
+    <loc>https://karabas-il.github.io/guitar/kvintovyj-krug_ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://karabas-il.github.io/guitar/kvintovyj-krug.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://karabas-il.github.io/guitar/kvintovyj-krug_ru.html"/>
+  </url>
+
+  <!-- Chord sheet -->
+  <url>
+    <loc>https://karabas-il.github.io/guitar/chord-sheet.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://karabas-il.github.io/guitar/chord-sheet.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://karabas-il.github.io/guitar/chord-sheet_ru.html"/>
+  </url>
+  <url>
+    <loc>https://karabas-il.github.io/guitar/chord-sheet_ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://karabas-il.github.io/guitar/chord-sheet.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://karabas-il.github.io/guitar/chord-sheet_ru.html"/>
+  </url>
+
+</urlset>
